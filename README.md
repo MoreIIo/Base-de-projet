@@ -1,5 +1,7 @@
 # Base de projet 
 
+![Code faster!](/Asset/illustration.gif)
+
 Parcel bundler documentation [Parceljs](https://parceljs.org/).
 Penser à prendre la nouvelle version ( bug avec l'ancienne).
 
